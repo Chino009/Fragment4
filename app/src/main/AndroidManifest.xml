@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="mx.com.chino.happyb">
+    package="mx.com.chino.holafirebase">
 
     <application
         android:allowBackup="true"

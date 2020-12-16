@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "822273472327",
+    "firebase_url": "https://fragmentos-5614a.firebaseio.com",
+    "project_id": "fragmentos-5614a",
+    "storage_bucket": "fragmentos-5614a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:822273472327:android:8e37236a7eed60338e3e62",
+        "android_client_info": {
+          "package_name": "mx.com.chino.fragment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "822273472327-3rtda666hks6buj7a068jqv7qnj6ld7p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "mx.com.chino.fragment",
+            "certificate_hash": "15d225fe1529ab2a8890e54bd133eca1c68ae4e1"
+          }
+        },
+        {
+          "client_id": "822273472327-kj9hrlo75cc6jeeg4cc21l4f0iqc11as.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUZ_s_wK-Rz-yWqJcniI3AzdPciGqFUXc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "822273472327-kj9hrlo75cc6jeeg4cc21l4f0iqc11as.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
